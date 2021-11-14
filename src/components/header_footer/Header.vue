@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="container">
         New Header
         <ul>
             <li v-for="stu in myStudents" :key="stu">{{stu}}</li>

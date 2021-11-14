@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="container">
         <hr>
          <slot name="listItem"></slot>
             I am a list healper
